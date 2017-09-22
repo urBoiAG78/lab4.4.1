@@ -152,8 +152,36 @@ int main(int argc, char** argv) {
     if(pangram.find('Z') != string::npos)
         z++;
     }
-    if (a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z == 1)
-    cout << "Pangram" << endl;
+    if(a > 1)
+        if(b>1)
+            if(c>1)
+                if(d>1)
+                    if(e>1)
+                        if(f>1)
+                            if(g>1)
+                                if(h>1)
+                                    if(i>1)
+                                        if(j>1)
+                                            if(k>1)
+                                                if(l>1)
+                                                    if(m>1)
+                                                        if(n>1)
+                                                            if(o>1)
+                                                                if(p>1)
+                                                                    if(q>1)
+                                                                        if(r>1)
+                                                                            if(s>1)
+                                                                                if(t>1)
+                                                                                    if(u>1)
+                                                                                        if(v>1)
+                                                                                            if(w>1)
+                                                                                                if(x>1)
+                                                                                                    if(y>1)
+                                                                                                        if(z>1)
+                                                                                                            cout << 
+    
+    
+    
     return 0;
 }
 
